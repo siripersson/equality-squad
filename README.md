@@ -1,6 +1,8 @@
-# equality-squad
+# The Equality Squad
 
-dilken => MongoDB
+## Suggestions
+
+Dilken => MongoDB
 
 Dess => Cloud! (AWS till exempel :) )
 
